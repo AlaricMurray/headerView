@@ -15,6 +15,7 @@
 		054E50281E5BC25E00491930 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 054E50261E5BC25E00491930 /* LaunchScreen.storyboard */; };
 		054E50331E5BC25E00491930 /* headerViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 054E50321E5BC25E00491930 /* headerViewTests.m */; };
 		054E503E1E5BC25E00491930 /* headerViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 054E503D1E5BC25E00491930 /* headerViewUITests.m */; };
+		054E504C1E5BC50200491930 /* op.png in Resources */ = {isa = PBXBuildFile; fileRef = 054E504B1E5BC50200491930 /* op.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		054E50391E5BC25E00491930 /* headerViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = headerViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		054E503D1E5BC25E00491930 /* headerViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = headerViewUITests.m; sourceTree = "<group>"; };
 		054E503F1E5BC25E00491930 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		054E504B1E5BC50200491930 /* op.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = op.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				054E501C1E5BC25E00491930 /* AppDelegate.m */,
 				054E501E1E5BC25E00491930 /* ViewController.h */,
 				054E501F1E5BC25E00491930 /* ViewController.m */,
+				054E504B1E5BC50200491930 /* op.png */,
 				054E50211E5BC25E00491930 /* Main.storyboard */,
 				054E50241E5BC25E00491930 /* Assets.xcassets */,
 				054E50261E5BC25E00491930 /* LaunchScreen.storyboard */,
@@ -246,6 +249,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				054E504C1E5BC50200491930 /* op.png in Resources */,
 				054E50281E5BC25E00491930 /* LaunchScreen.storyboard in Resources */,
 				054E50251E5BC25E00491930 /* Assets.xcassets in Resources */,
 				054E50231E5BC25E00491930 /* Main.storyboard in Resources */,
